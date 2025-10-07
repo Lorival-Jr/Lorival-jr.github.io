@@ -157,7 +157,7 @@
 }
 
 #img-share{
-  margin-top: 5px;
+  margin-top: 0px;
   width: 27px;
   height: 27px;
   color: var(--main-text-color);
@@ -284,13 +284,29 @@
   line-height: 1.5;
 }
 
-.project-box .btn {
+ .btn {
   color: #fff;
   background-color: var(--main-color);
   padding: 8px 14px;
   border-radius: 6px;
   text-decoration: none;
 }
-.project-box .btn:hover {
+ .btn:hover {
+  opacity: 0.9;
+}
+
+ .btn2 {
+  color: #fff;
+  background-color: var(--main-color);
+  padding: 6px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center; 
+  justify-content: center; 
+  gap: 8px;
+}
+
+ .btn2:hover {
   opacity: 0.9;
 }
