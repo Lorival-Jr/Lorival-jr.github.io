@@ -11,12 +11,12 @@
 
 /*Variáveis*/
 :root {
-  --main-color: #54B689;
-  --main-text-color: #FFF;
-  --border-color: #999;
-  --bio-bg-color: #1E2A3A;
-  --bio-border-color: #293544;
-  --about-bg-color: #111821;
+--main-color: #3AA876;
+--main-text-color: #FAFAFA;
+--border-color: #2E3B4E;
+--bio-bg-color: #1C2A2E;
+--bio-border-color: #2F3D43;
+--about-bg-color: #0F191C;
 }
 
 /*Geral*/
@@ -201,8 +201,8 @@
 }
 
 #img-icon-skill{
-  width: 45px;
-  height: 45px;
+  width: 55px;
+  height: 55px;
   margin-right:  10px;
 
 }
